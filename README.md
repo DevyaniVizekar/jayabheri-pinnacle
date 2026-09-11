@@ -273,16 +273,6 @@ This results in an implementation that is:
 
 ---
 
-# 🌐 Live Demo
-
-Experience the complete website:
-
-### 🔗 [jayabheri-pinnacle.vercel.app](https://jayabheri-pinnacle.vercel.app)
-
-The live version demonstrates the complete responsive experience, visual design, animations, gallery interactions, residence presentation, and enquiry flow.
-
----
-
 # 👤 Author
 
 <div align="center">
@@ -295,8 +285,3 @@ Passionate about creating modern, responsive, and visually engaging digital expe
 
 </div>
 
-
-
-**© 2026 Devyani Vizekar**
-
-</div>
