@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🏙️ Jayabheri The Pinnacle
+# ✦ Jayabheri The Pinnacle ✦
 
 ### A Premium, Immersive & Responsive Real-Estate Experience
 
