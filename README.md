@@ -1,6 +1,6 @@
 <div align="center">
 
-# ✦ Jayabheri The Pinnacle ✦
+# ✨ Jayabheri The Pinnacle ✨
 
 ### A Premium, Immersive & Responsive Real-Estate Experience🏙️ 
 
@@ -16,7 +16,7 @@ thoughtful interactions, and a seamless experience across desktop, tablet, and m
 
 ---
 
-## ✨ Overview
+## Overview
 
 **Jayabheri The Pinnacle** is a premium real-estate landing page concept created to deliver a visually impactful and immersive digital experience for a luxury residential development in **Kokapet, Hyderabad**.
 
